@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|c:\\users\\fialh\\onedrive\\documentos\\dotnet-challenge-2024\\oceanovivo\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|solutionrelative:controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|c:\\users\\fialh\\onedrive\\documentos\\dotnet-challenge-2024\\oceanovivo\\models\\deteccao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|solutionrelative:models\\deteccao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|c:\\users\\fialh\\onedrive\\documentos\\dotnet-challenge-2024\\oceanovivo\\controllers\\deteccaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|solutionrelative:controllers\\deteccaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|c:\\users\\fialh\\onedrive\\documentos\\dotnet-challenge-2024\\oceanovivo\\data\\oceanovivodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|solutionrelative:data\\oceanovivodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|c:\\users\\fialh\\onedrive\\documentos\\dotnet-challenge-2024\\oceanovivo\\models\\ong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|solutionrelative:models\\ong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|c:\\users\\fialh\\onedrive\\documentos\\dotnet-challenge-2024\\oceanovivo\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|c:\\users\\fialh\\onedrive\\documentos\\dotnet-challenge-2024\\oceanovivo\\models\\especie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|solutionrelative:models\\especie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|c:\\users\\fialh\\onedrive\\documentos\\dotnet-challenge-2024\\oceanovivo\\models\\localizacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|solutionrelative:models\\localizacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|c:\\users\\fialh\\onedrive\\documentos\\dotnet-challenge-2024\\oceanovivo\\models\\situacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|solutionrelative:models\\situacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|c:\\users\\fialh\\onedrive\\documentos\\dotnet-challenge-2024\\oceanovivo\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|c:\\users\\fialh\\onedrive\\documentos\\dotnet-challenge-2024\\oceanovivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|c:\\users\\fialh\\onedrive\\documentos\\dotnet-challenge-2024\\oceanovivo\\controllers\\especiecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|solutionrelative:controllers\\especiecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|c:\\users\\fialh\\onedrive\\documentos\\dotnet-challenge-2024\\oceanovivo\\controllers\\ongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|solutionrelative:controllers\\ongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|c:\\users\\fialh\\onedrive\\documentos\\dotnet-challenge-2024\\oceanovivo\\controllers\\localizacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|solutionrelative:controllers\\localizacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|c:\\users\\fialh\\onedrive\\documentos\\dotnet-challenge-2024\\oceanovivo\\controllers\\situacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|solutionrelative:controllers\\situacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|c:\\users\\fialh\\onedrive\\documentos\\dotnet-challenge-2024\\oceanovivo\\oceanovivo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|solutionrelative:oceanovivo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|c:\\users\\fialh\\onedrive\\documentos\\dotnet-challenge-2024\\oceanovivo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|c:\\users\\fialh\\onedrive\\documentos\\dotnet-challenge-2024\\oceanovivo\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}|OceanoVivo.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeteccaoController.cs",
+              "DocumentMoniker": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\Controllers\\DeteccaoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DeteccaoController.cs",
+              "ToolTip": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\Controllers\\DeteccaoController.cs",
+              "RelativeToolTip": "Controllers\\DeteccaoController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T23:50:15.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Especie.cs",
+              "DocumentMoniker": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\Models\\Especie.cs",
+              "RelativeDocumentMoniker": "Models\\Especie.cs",
+              "ToolTip": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\Models\\Especie.cs",
+              "RelativeToolTip": "Models\\Especie.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T21:20:57.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\Models\\Categoria.cs",
+              "RelativeToolTip": "Models\\Categoria.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwBMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T21:17:05.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Deteccao.cs",
+              "DocumentMoniker": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\Models\\Deteccao.cs",
+              "RelativeDocumentMoniker": "Models\\Deteccao.cs",
+              "ToolTip": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\Models\\Deteccao.cs",
+              "RelativeToolTip": "Models\\Deteccao.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA1wBcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T21:21:03.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OceanoVivoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\Data\\OceanoVivoDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\OceanoVivoDbContext.cs",
+              "ToolTip": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\Data\\OceanoVivoDbContext.cs",
+              "RelativeToolTip": "Data\\OceanoVivoDbContext.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAwEkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T21:21:26.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Localizacao.cs",
+              "DocumentMoniker": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\Models\\Localizacao.cs",
+              "RelativeDocumentMoniker": "Models\\Localizacao.cs",
+              "ToolTip": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\Models\\Localizacao.cs",
+              "RelativeToolTip": "Models\\Localizacao.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T21:20:51.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ong.cs",
+              "DocumentMoniker": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\Models\\Ong.cs",
+              "RelativeDocumentMoniker": "Models\\Ong.cs",
+              "ToolTip": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\Models\\Ong.cs",
+              "RelativeToolTip": "Models\\Ong.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T21:20:46.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "Controllers\\CategoriaController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAuwF8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T22:49:51.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Situacao.cs",
+              "DocumentMoniker": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\Models\\Situacao.cs",
+              "RelativeDocumentMoniker": "Models\\Situacao.cs",
+              "ToolTip": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\Models\\Situacao.cs",
+              "RelativeToolTip": "Models\\Situacao.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA6wCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T21:20:39.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T21:20:32.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T21:43:30.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EspecieController.cs",
+              "DocumentMoniker": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\Controllers\\EspecieController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EspecieController.cs",
+              "ToolTip": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\Controllers\\EspecieController.cs",
+              "RelativeToolTip": "Controllers\\EspecieController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T23:33:55.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OngController.cs",
+              "DocumentMoniker": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\Controllers\\OngController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OngController.cs",
+              "ToolTip": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\Controllers\\OngController.cs",
+              "RelativeToolTip": "Controllers\\OngController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T23:27:27.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Localizacao.cs",
+              "DocumentMoniker": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\Controllers\\Localizacao.cs",
+              "RelativeDocumentMoniker": "Controllers\\Localizacao.cs",
+              "ToolTip": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\Controllers\\Localizacao.cs",
+              "RelativeToolTip": "Controllers\\Localizacao.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T23:17:13.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SituacaoController.cs",
+              "DocumentMoniker": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\Controllers\\SituacaoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SituacaoController.cs",
+              "ToolTip": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\Controllers\\SituacaoController.cs",
+              "RelativeToolTip": "Controllers\\SituacaoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T23:07:23.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OceanoVivo",
+              "DocumentMoniker": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\OceanoVivo.csproj",
+              "RelativeDocumentMoniker": "OceanoVivo.csproj",
+              "ToolTip": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\OceanoVivo.csproj",
+              "RelativeToolTip": "OceanoVivo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-07T21:32:51.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-07T21:42:54.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\fialh\\OneDrive\\Documentos\\dotnet-challenge-2024\\OceanoVivo\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAAwG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T21:27:49.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

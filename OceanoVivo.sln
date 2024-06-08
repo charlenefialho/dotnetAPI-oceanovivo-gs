@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OceanoVivo", "OceanoVivo.csproj", "{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC2607AB-5D52-47B6-AF60-29637C7AC0EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FB96D25-21E2-4F8A-8DC1-9FC0E82103B0}
+	EndGlobalSection
+EndGlobal
